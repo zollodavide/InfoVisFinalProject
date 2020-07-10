@@ -55,8 +55,9 @@
 
 			var mousemove = function(d) {
 				tooltip
-				.style("left", (d3.mouse(this)[0]) + "px") 
-				.style("top", (d3.mouse(this)[1]) + "px")
+				.style("position", "absolute")
+				.style("left", (d3.mouse(this)[0]+450) + "px") 
+				.style("top", (d3.mouse(this)[1]+500) + "px")
 			}
 
 			var mouseleave = function(d) {
