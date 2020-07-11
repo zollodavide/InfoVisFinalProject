@@ -1,8 +1,9 @@
 VISUALIZATION TASK (PLOT TYPE)
 
-	- Poorest States (Chloropleth)
-	- Most common names victim (Wordcloud) 
-	- Killed people count by State (Circular Bar Plot) 
+	- (FATTO) Poorest States (Chloropleth)
+	- (FATTO) Most common names victim (Wordcloud) 
+	- (QUASI FATTO) Killed people count by State (Circular Bar Plot) 
+		-> Manca aggiustare il tooltip
 	- States High School vs Poverty (Line multi group -> 
 			X: States, 
 			Y:[LINE1: HIGH SCHOOL GRADUATES PERCENTAGE, LINE2: PERCENTAGE OF POVERTY])
