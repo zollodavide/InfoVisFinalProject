@@ -41,7 +41,7 @@ d3.scaleLinear()
   // MAX rgb(29, 30, 255) - 26.88
 // Load external data and boot
 d3.queue()
-  .defer(d3.json, "states.json")
+  .defer(d3.json, "JSONs/states.json")
   .defer(d3.csv, "CSVs/States2Poverty.csv", function(d) { 
     data.set(d.Name, +d.Poverty); })
   .await(ready);
