@@ -12,7 +12,7 @@ VISUALIZATION TASK (PLOT TYPE)
 			X: States,
 			Y: [LINE X: KILLS BY RACE X])
 	- Kills by Month (Line)
-	- Killed people by gender (Pie)
+	- (FATTO)Killed people by gender (Pie)
 	- (FATTO) Killed people age distribution by gender (Violin -> 
 			VIOLIN1: MALE
 			VIOLIN2: FEMALE)
