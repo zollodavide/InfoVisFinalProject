@@ -22,3 +22,4 @@ VISUALIZATION TASK (PLOT TYPE)
 			Y:KillCount, 
 			BUBBLE:StatePopulation)
 	- Most Dangerous Cities and States by kills (Histogram)
+	- Victims Age Distribution by Race (Density)
