@@ -4,9 +4,11 @@ VISUALIZATION TASK (PLOT TYPE)
 	- (FATTO) Most common names victim (Wordcloud) 
 	- (QUASI FATTO) Killed people count by State (Circular Bar Plot) 
 		-> Manca aggiustare il tooltip
-	- (FATTO) States High School vs Poverty (Parallel Coordinates -> 
+	- (QUASI FATTO) States High School vs Poverty (Parallel Coordinates -> 
 			First axis: mean state education 
 			Second axis: percentage poverty)
+		-> Manca aggiustare il tooltip
+	
 	- Share Race By State (Donut)
 	- Killed people count by race by State (Line muti group ->
 			X: States,
@@ -23,4 +25,7 @@ VISUALIZATION TASK (PLOT TYPE)
 			BUBBLE:StatePopulation)
 	- Most Dangerous Cities and States by kills (Histogram)
 	- (FATTO) Victims Age Distribution by Race (Density)
-	- Victims Age Distribution by Race (Density)
+
+=============================
+	
+	- Killed people in states vs Poverty vs Highschool
